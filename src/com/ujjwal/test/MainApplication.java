@@ -6,6 +6,7 @@ public class MainApplication {
 		// TODO Auto-generated method stub
 
 		System.out.print("Hello world");
+		System.out.println("This is updated");
 	}
 
 }
